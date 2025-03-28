@@ -28,7 +28,7 @@ Here are some of the certifications I have achieved:
    ![Data Cleaning in Excel - Techniques to Clean Messy Data](https://github.com/gerardnynkeu/gerardnynkeu/blob/main/Data%20Cleaning%20in%20Excel-Techniques%20to%20Clean%20Messy.pdf)
 
 5. **Google AI Essentials**  
-   ![Google AI Essentials](path/to/Google_AI_Essentials.pdf)
+   ![Google AI Essentials](https://github.com/gerardnynkeu/gerardnynkeu/blob/main/Google%20AI%20Essentials.pdf)
 
 6. **Understanding and Visualizing Data with Python**  
    ![Understanding and Visualizing Data with Python](path/to/Understanding_and_Visualizing_Data_with_Python.pdf)

@@ -31,4 +31,4 @@ Here are some of the certifications I have achieved:
    ![Google AI Essentials](https://github.com/gerardnynkeu/gerardnynkeu/blob/main/Google%20AI%20Essentials.pdf)
 
 6. **Understanding and Visualizing Data with Python**  
-   ![Understanding and Visualizing Data with Python](path/to/Understanding_and_Visualizing_Data_with_Python.pdf)
+   ![Understanding and Visualizing Data with Python](https://github.com/gerardnynkeu/gerardnynkeu/blob/main/Understanding%20and%20Visualizing%20Data%20with%20Python.pdf)

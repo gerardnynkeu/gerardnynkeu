@@ -25,7 +25,7 @@ Here are some of the certifications I have achieved:
    ![Google Data Analytics Professional Certificate](https://github.com/gerardnynkeu/gerardnynkeu/blob/main/Google%20%20%20Data%20Analytics%20Professional%20Certificate.pdf)
 
 4. **Data Cleaning in Excel - Techniques to Clean Messy Data**  
-   ![Data Cleaning in Excel - Techniques to Clean Messy Data](path/to/Data_Cleaning_in_Excel_Techniques_to_Clean_Messy_Data.pdf)
+   ![Data Cleaning in Excel - Techniques to Clean Messy Data](https://github.com/gerardnynkeu/gerardnynkeu/blob/main/Data%20Cleaning%20in%20Excel-Techniques%20to%20Clean%20Messy.pdf)
 
 5. **Google AI Essentials**  
    ![Google AI Essentials](path/to/Google_AI_Essentials.pdf)

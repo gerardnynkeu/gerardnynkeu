@@ -19,16 +19,16 @@ This portfolio showcases my ability to analyze complex datasets, derive meaningf
 Here are some of the certifications I have achieved:
 
 1. **Google Advanced Data Analytics Professional Certificate**  
-   ![Google Advanced Data Analytics Professional Certificate](path/to/Google_Advanced_Data_Analytics_Professional_Certificate.pdf)
+   ![Google Advanced Data Analytics Professional Certificate](https://github.com/gerardnynkeu/gerardnynkeu/blob/main/Google%20Advanced%20%20Data%20Analytics%20Professional%20Certificate.pdf)
 
-2. **Google Data Analytics Professional Certificate**  
+3. **Google Data Analytics Professional Certificate**  
    ![Google Data Analytics Professional Certificate](path/to/Google_Data_Analytics_Professional_Certificate.pdf)
 
-3. **Data Cleaning in Excel - Techniques to Clean Messy Data**  
+4. **Data Cleaning in Excel - Techniques to Clean Messy Data**  
    ![Data Cleaning in Excel - Techniques to Clean Messy Data](path/to/Data_Cleaning_in_Excel_Techniques_to_Clean_Messy_Data.pdf)
 
-4. **Google AI Essentials**  
+5. **Google AI Essentials**  
    ![Google AI Essentials](path/to/Google_AI_Essentials.pdf)
 
-5. **Understanding and Visualizing Data with Python**  
+6. **Understanding and Visualizing Data with Python**  
    ![Understanding and Visualizing Data with Python](path/to/Understanding_and_Visualizing_Data_with_Python.pdf)

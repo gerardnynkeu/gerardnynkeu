@@ -1,17 +1,27 @@
 👋 Welcome to My GitHub Portfolio!
 
-Hi, I'm Gerard Nynkeu, a data analyst with a background in materials and product development engineering, complemented by years of experience in e-commerce. My journey into data analytics allows me to merge technical expertise with business acumen to transform data into strategic insights.
-🔹 Skills & Tools
+👋 Hallo, ich bin Gerard – Ingenieur mit Leidenschaft für Datenanalyse.
+Nach meiner Tätigkeit im Maschinenbau habe ich erkannt, wie entscheidend datengestützte Entscheidungen für Effizienz, Wachstum und Innovation sind. Deshalb habe ich mich im Rahmen des Google Data Analytics Zertifikats in den Bereichen Python, SQL, Statistik und Data Storytelling weitergebildet.
 
-Data Tools: Python, R, SQL, Tableau, Google Sheets, Excel
+🔍 Ich liebe es, Muster in Daten zu erkennen, Business-Fragen in Analyseprobleme zu übersetzen und mit Visualisierungen Klarheit zu schaffen.
+Aktuell suche ich eine Remote-Position als Junior Data Analyst, um meine Fähigkeiten in einem praxisnahen Umfeld weiterzuentwickeln.
 
-Techniques: Data Cleaning, Statistical Analysis, Dashboarding, Data Visualization, Reporting
+📊 Tools & Skills: Python (pandas, matplotlib, seaborn), SQL, Excel, Tableau, Google BigQuery
+🎓 Zertifikat: Google Data Analytics (Coursera, 2024)
+📍 Standort: Deutschland | Remote verfügbar
 
-Certifications: Google Professional & Advanced Data Analytics
+💬 Ich freue mich über Austausch, Projektideen oder Jobangebote im Bereich Data Analytics.
+Let’s talk data! 🚀
 
-🚀 What to Expect
 
-This portfolio showcases my ability to analyze complex datasets, derive meaningful insights, and present data-driven solutions effectively. Explore my projects and let's connect!
+👋 Hi, I’m Gerard – an engineer turned aspiring Data Analyst.
+Through the Google Data Analytics Certificate, I’ve gained hands-on experience in SQL, Python, statistics, and visual storytelling.
+
+I’m passionate about extracting insights from data, solving business problems, and contributing to meaningful projects. Currently seeking a remote position as a Junior Data Analyst to further grow my skills in real-world environments.
+
+📍 Location: Germany (open to remote roles worldwide)
+💡 Tools: Python (pandas, seaborn), SQL, Excel, Tableau
+🎯 Let’s connect and talk about data-driven impact!
 
 
 ## Certifications
